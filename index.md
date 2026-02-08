@@ -18,7 +18,8 @@
 **Desenvolvedor:** leankar.dev
 **Contato:** [www.leankar.dev](https://www.leankar.dev)
 **Aplicativo:** BuscaCep
-**Pacote:** leankar.dev.busca_cep_app
+**Pacote:** dev.leankar.buscaceplas
+**Versão:** 0.5.1
 
 ---
 
@@ -37,7 +38,7 @@ Ao utilizar o BuscaCep, voce concorda com as praticas descritas nesta politica. 
 O BuscaCep **NAO coleta, armazena ou processa dados pessoais** de nenhuma natureza, incluindo, mas nao se limitando a:
 
 - Nome, e-mail ou telefone
-- Documentos de identificacao (CPF, RG, BI, NIF, etc.)
+- Documentos de identificacao (CPF, RG, etc.)
 - Dados de localizacao (GPS)
 - Dados biometricos
 - Informacoes de contatos do dispositivo
@@ -304,7 +305,8 @@ Responderemos a sua solicitacao no menor prazo possivel.
 **Developer:** leankar.dev
 **Contact:** [www.leankar.dev](https://www.leankar.dev)
 **Application:** BuscaCep
-**Package:** leankar.dev.busca_cep_app
+**Package:** dev.leankar.buscaceplas
+**Version:** 0.5.1
 
 ---
 
@@ -590,7 +592,8 @@ We will respond to your request as soon as possible.
 **Desarrollador:** leankar.dev
 **Contacto:** [www.leankar.dev](https://www.leankar.dev)
 **Aplicacion:** BuscaCep
-**Paquete:** leankar.dev.busca_cep_app
+**Paquete:** dev.leankar.buscaceplas
+**Versión:** 0.5.1
 
 ---
 
